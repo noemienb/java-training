@@ -1,5 +1,5 @@
 # java-training
 
-Projet d'entrainement au code Java
+Projet d'entrainement au code Java en collaboration avec Kevin
 
-![Coding](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)
+![Coding](./img/Capture d’écran 2020-10-09 à 16.10.57.png)
